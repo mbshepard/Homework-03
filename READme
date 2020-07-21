@@ -1,0 +1,7 @@
+Program Description:
+  This program generates a random password with two key user inputs:
+  (1) Length of desired password (must be between 8 and 128 characters)
+  (2) Y/N choice for special characters
+  
+ Link to webpage:
+ https://mbshepard.github.io/Homework-03/
